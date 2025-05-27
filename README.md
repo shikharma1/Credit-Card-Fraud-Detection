@@ -1,6 +1,3 @@
-# Credit-Card-Fraud-Detection
-Develop an anomaly detection system to identify fraudulent transactions using unsupervised learning techniques.
-https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 This project applies unsupervised machine learning techniques to detect fraudulent credit card transactions using anonymized data. It includes:
 - Preprocessing
 - Feature scaling
